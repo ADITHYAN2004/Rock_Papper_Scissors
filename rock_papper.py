@@ -60,5 +60,5 @@ elif choose==2 and random_number==0:
 elif choose==2 and random_number==1:
   print("You Loss")  
 elif choose==random_number:
-  print("Draw2")
+  print("Draw")
 
